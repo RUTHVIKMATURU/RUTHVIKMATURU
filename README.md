@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruthvik Maturu</h1>
-<h3 align="center">I am a passionate Software Engineer currently pursuing my B.Tech in the 2nd year. I have hands-on experience in full-stack development and have successfully completed projects such as a Blog App, Event App, Hostel Management System, and Campus Connect App using the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building scalable and efficient applications and continuously learning new technologies to enhance my skills.</h3>
+<h3 align="left">I am a passionate Software Engineer currently pursuing my B.Tech in the 2nd year. I have hands-on experience in full-stack development and have successfully completed projects such as a Blog App, Event App, Hostel Management System, and Campus Connect App using the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building scalable and efficient applications and continuously learning new technologies to enhance my skills.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ruthvikmaturu&label=Profile%20views&color=0e75b6&style=flat" alt="ruthvikmaturu" />
