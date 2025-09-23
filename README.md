@@ -2,7 +2,12 @@
   <h1 class="text-4xl font-bold text-center mb-6">Hi 👋, I'm Ruthvik Maturu</h1>
   
   <h3 class="text-justify text-lg leading-relaxed mb-6">
-    I am a passionate Software Engineer currently pursuing my B.Tech in the 2nd year. I have hands-on experience in full-stack development and have successfully completed projects such as a Blog App, Event App, Hostel Management System, and Campus Connect App using the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building scalable and efficient applications and continuously learning new technologies to enhance my skills.
+    Passionate and results-driven software developer with expertise in AI, MERN stack, and full-stack development. Skilled in designing and building scalable, user-focused applications with strong problem-solving abilities, supported by competitive programming achievements.
+
+
+  </h3>
+  <h3>
+    Proficient in Java (OOP), Python, C++, and C, with additional experience in data visualization using Power BI, Tableau, and R. Adapt at adapting quickly, approaching challenges with innovation, and delivering efficient, high-quality solutions.
   </h3>
   
 
