@@ -1,13 +1,13 @@
 <div class="max-w-4xl mx-auto px-4 py-8 text-gray-200 bg-gray-900 rounded-lg">
-  <h1 class="text-4xl font-bold text-center mb-6">Hi 👋, I'm Ruthvik Maturu</h1>
-  
+  <h1 class="text-4xl font-bold text-center mb-6">Hi, I'm Ruthvik Maturu</h1>
+
+
   <h3 class="text-justify text-lg leading-relaxed mb-6">
-    Passionate and results-driven software developer with expertise in AI, MERN stack, and full-stack development. Skilled in designing and building scalable, user-focused applications with strong problem-solving abilities, supported by competitive programming achievements.
+    Software Developer with strong foundations in Data Structures & Algorithms, Object-Oriented Programming
+(Java/C++), and Python, with hands-on experience in Full-Stack Development and AI/ML. Skilled at building
+scalable, production-ready applications by applying engineering best practices (clean architecture, testing,
+performance optimization) and leveraging data-driven intelligence to deliver measurable product impact.
 
-
-  </h3>
-  <h3>
-    Proficient in Java (OOP), Python, C++, and C, with additional experience in data visualization using Power BI, Tableau, and R. Adapt at adapting quickly, approaching challenges with innovation, and delivering efficient, high-quality solutions.
   </h3>
   
 
