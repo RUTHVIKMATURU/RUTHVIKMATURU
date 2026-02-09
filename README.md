@@ -61,18 +61,6 @@ performance optimization) and leveraging data-driven intelligence to deliver mea
 
   <hr class="border-cyan-500 my-8" />
 
-  <section class="text-center">
-    <a href="https://github.com/RUTHVIKMATURU" target="_blank" rel="noopener noreferrer">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=RUTHVIKMATURU&show_icons=true&theme=dark"
-        alt="Ruthvik's GitHub stats"
-        class="mx-auto rounded-lg shadow-lg"
-      />
-    </a>
-  </section>
-
-  <hr class="border-cyan-500 my-8" />
-
   <section>
     <h2 class="text-2xl font-bold text-cyan-400 border-b-2 border-cyan-400 pb-1 mb-6">🛠️ Languages and Tools:</h2>
     <div class="flex flex-wrap gap-4 justify-center">
@@ -109,11 +97,16 @@ performance optimization) and leveraging data-driven intelligence to deliver mea
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" 
   height="40" />
       </a>
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" 
-  height="40" />
-      </a>
-      <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
+      <a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
+       alt="Flask"
+       width="40"
+       height="40"
+       style="background:white; padding:4px; border-radius:4px;" />
+</a>
+
+
+  <a href="https://flutter.dev" target="_blank" rel="noopener noreferrer">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" 
   height="40" />
       </a>
@@ -194,8 +187,3 @@ performance optimization) and leveraging data-driven intelligence to deliver mea
 </div>
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruthvikmaturu&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
