@@ -303,5 +303,4 @@ and generates intelligent responses using the Gemini API.
 </ul>
   </section>
 </div>
----
 
