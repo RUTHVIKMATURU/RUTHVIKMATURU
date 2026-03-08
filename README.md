@@ -2,67 +2,174 @@
   <h1 class="text-4xl font-bold text-center mb-6">Hi, I'm Ruthvik Maturu</h1>
 
 
-  <h3 class="text-justify text-lg leading-relaxed mb-6">
+  <p>
     Software Developer with strong foundations in Data Structures & Algorithms, Object-Oriented Programming
 (Java/C++), and Python, with hands-on experience in Full-Stack Development and AI/ML. Skilled at building
 scalable, production-ready applications by applying engineering best practices (clean architecture, testing,
 performance optimization) and leveraging data-driven intelligence to deliver measurable product impact.
 
-  </h3>
+  </p>
   
 
   <hr class="border-cyan-500 mb-8" />
 
   <section>
-    <h2 class="text-2xl font-bold text-cyan-400 border-b-2 border-cyan-400 pb-1 mb-6">🌐 Connect with me:</h2>
-    <div class="flex space-x-6 justify-center mb-8">
-      <a href="https://www.codechef.com/users/ruthvik0811" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" 
-  height="40" alt="CodeChef" class="h-8 w-10" />
-      </a>
-      <a href="https://www.hackerrank.com/ruthvik0811" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" class="h-8 w-10" width="40" 
-  height="40" />
-      </a>
-      <a href="https://codeforces.com/profile/ruthvik0811" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" class="h-8 w-10" width="40" 
-  height="40"/>
-      </a>
-      <a href="https://www.leetcode.com/ruthvik0811" target="_blank" rel="noopener noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" class="h-8 w-10" width="40" 
-  height="40"/>
-      </a>
-    </div>
-  </section>
-
-  <hr class="border-cyan-500 mb-8" />
-
-  <section>
-    <h2 class="text-2xl font-bold text-cyan-400 border-b-2 border-cyan-400 pb-1 mb-6">🔥 Projects I’ve Worked On</h2>
-    <ul class="space-y-6">
-      <li class="bg-gray-800 p-6 rounded-lg shadow-md">
-        <h3 class="text-xl font-semibold text-cyan-300 mb-2">💻 Blog App</h3>
-        <p>A full-stack blogging platform allowing users to create, edit, and delete posts with user authentication and a responsive UI.</p>
-      </li>
-      <li class="bg-gray-800 p-6 rounded-lg shadow-md">
-        <h3 class="text-xl font-semibold text-cyan-300 mb-2">📅 Event App</h3>
-        <p>Manage events with RSVP, notifications, and calendar integration, making event organization seamless.</p>
-      </li>
-      <li class="bg-gray-800 p-6 rounded-lg shadow-md">
-        <h3 class="text-xl font-semibold text-cyan-300 mb-2">🏢 Hostel Management System</h3>
-        <p>System for managing room allocation, student records, and attendance with an intuitive interface.</p>
-      </li>
-      <li class="bg-gray-800 p-6 rounded-lg shadow-md">
-        <h3 class="text-xl font-semibold text-cyan-300 mb-2">🌐 Campus Connect App</h3>
-        <p>A social networking app designed to connect campus students for sharing updates, forming study groups, and communication.</p>
-      </li>
+    <h1 class="text-2xl font-bold text-cyan-400 border-b-2 border-cyan-400 pb-1 mb-6">Projects</h1>
+    <h2>Real-Time Object Detection and Intelligent Scene Description System</h2>
+    <h4>Overview</h4>
+    <p>
+    This project is an AI-powered system that performs real-time object detection and
+    generates contextual scene descriptions from live video streams. It integrates
+    computer vision models with generative AI to interpret visual environments.
+    </p>
+    <h4>Features</h4>
+    <ul>
+    <li>Real-time object detection using YOLO (ONNX)</li>
+    <li>Scene caption generation using BLIP</li>
+    <li>Live webcam feed processing</li>
+    <li>REST APIs for machine learning inference</li>
+    <li>Interactive interface for visualizing detections</li>
     </ul>
+    <h4>Tech Stack</h4>
+    <ul>
+    <li>React</li>
+    <li>FastAPI</li>
+    <li>Python</li>
+    <li>YOLO (ONNX)</li>
+    <li>BLIP</li>
+    <li>REST APIs</li>
+    </ul>
+    <h2>Peer-to-Peer Student Mentorship Platform</h2>
+
+<h4>Overview</h4>
+<p>
+A web platform that connects junior students with experienced seniors for
+technical guidance and mentorship through a structured matching system.
+</p>
+
+<h4>Features</h4>
+<ul>
+<li>Skill-based mentor discovery</li>
+<li>Role-based user profiles</li>
+<li>Secure in-app messaging</li>
+<li>Search and filtering for mentors</li>
+<li>Optimized database queries for faster matching</li>
+</ul>
+
+<h4>Tech Stack</h4>
+<ul>
+<li>MongoDB</li>
+<li>Express.js</li>
+<li>React</li>
+<li>Node.js</li>
+<li>Firebase</li>
+</ul>
+
+<h2>Future Improvements</h2>
+<ul>
+<li>Video call integration</li>
+<li>AI-based mentor recommendations</li>
+<li>Community discussion forums</li>
+</ul>
+<h2>Hostel Management System</h2>
+
+<h4>Overview</h4>
+<p>
+A full-stack application designed to automate hostel administration
+and replace manual paper-based workflows with a centralized digital system.
+</p>
+
+<h4>Features</h4>
+<ul>
+<li>Automated room allocation</li>
+<li>Complaint ticket management</li>
+<li>Fee tracking and management</li>
+<li>Role-based access control for students, wardens, and administrators</li>
+</ul>
+
+<h4>Tech Stack</h4>
+<ul>
+<li>MongoDB</li>
+<li>Express.js</li>
+<li>React</li>
+<li>Node.js</li>
+</ul>
+
+<h2>Movie Database Management System</h2>
+
+<h4>Overview</h4>
+<p>
+This project implements a relational database system for storing and retrieving
+movie-related information efficiently using SQL and query optimization techniques.
+</p>
+
+<h4>Features</h4>
+<ul>
+<li>Structured database schema for movies, actors, directors, and genres</li>
+<li>Optimized SQL queries for fast searching</li>
+<li>Use of indexing for performance improvement</li>
+<li>Relationships maintained using primary and foreign keys</li>
+</ul>
+
+<h4>Tech Stack</h4>
+<ul>
+<li>SQL</li>
+<li>Relational Database Management System</li>
+<li>Query Optimization Techniques</li>
+</ul>
+
+<h2>Course Registration System using Java and JDBC</h2>
+
+<h4>Overview</h4>
+<p>
+A database-driven system that enables students to register for courses and allows
+administrators to manage course records using Java and JDBC connectivity.
+</p>
+
+<h4>Features</h4>
+<ul>
+<li>Student course enrollment system</li>
+<li>Add, update, and delete course information</li>
+<li>JDBC-based database connectivity</li>
+<li>CRUD operations for course management</li>
+</ul>
+
+<h4>Tech Stack</h4>
+<ul>
+<li>Java</li>
+<li>JDBC</li>
+<li>SQL</li>
+<li>DBMS</li>
+</ul>
+
+<h2>AI Virtual Assistant using Gemini API</h2>
+
+<h4>Overview</h4>
+<p>
+This project is a simple AI-powered virtual assistant that processes user queries
+and generates intelligent responses using the Gemini API.
+</p>
+
+<h4>Features</h4>
+<ul>
+<li>Conversational AI interaction</li>
+<li>Natural language query processing</li>
+<li>Integration with Gemini API</li>
+<li>Real-time response generation</li>
+</ul>
+
+<h4>Tech Stack</h4>
+<ul>
+<li>Python</li>
+<li>Gemini API</li>
+<li>REST APIs</li>
+</ul>
   </section>
 
   <hr class="border-cyan-500 my-8" />
 
   <section>
-    <h2 class="text-2xl font-bold text-cyan-400 border-b-2 border-cyan-400 pb-1 mb-6">🛠️ Languages and Tools:</h2>
+    <h2 class="text-2xl font-bold text-cyan-400 border-b-2 border-cyan-400 pb-1 mb-6">Languages and Tools:</h2>
     <div class="flex flex-wrap gap-4 justify-center">
       <!-- Repeat for each icon -->
       <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer">
@@ -183,6 +290,17 @@ performance optimization) and leveraging data-driven intelligence to deliver mea
   height="40" />
       </a>
     </div>
+  </section>
+   <hr class="border-cyan-500 my-8" />
+  <section>
+   <h2 align="center">🌐 Connect with Me</h2>
+
+<ul>
+<li><a href="https://www.codechef.com/users/ruthvik0811">CodeChef</a></li>
+  <li><a href="https://www.hackerrank.com/ruthvik0811" >HackerRank</a></li>
+  <li><a href="https://codeforces.com/profile/ruthvik0811">Codeforces</a></li>
+  <li><a href="https://leetcode.com/ruthvik0811">LeetCode</a></li>
+</ul>
   </section>
 </div>
 ---
